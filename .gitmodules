@@ -7,3 +7,4 @@
 	path = x13binary
 	url = https://github.com/x13org/x13binary
 	shallow = true
+	registered = true
