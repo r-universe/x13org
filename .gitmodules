@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "x13binary"]
 	path = x13binary
 	url = https://github.com/x13org/x13binary
-	shallow = true
-	registered = true
